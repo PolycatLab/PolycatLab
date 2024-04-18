@@ -1,8 +1,6 @@
-- 👋 Hi, This is @PolycatLab
-- 👀 The group is interested in polymerisation and catalysis
-- 🌱 We are also interested in FAIR data sharing and publication
+**Poly(cat) Lab**
+--
 
-<!---
-PolycatLab/PolycatLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The group's main actvity centres around polymerisation catalysis, including the design of catalysts and the development of original methodologies for sustainable polymers. We use combined experimental annd computationnal approaches to elucidate reaction mechanisms and guide towards the development of new catalysts and reactions.
+
+The group also promotes the use of data repositories for the publication of FAIR data.
